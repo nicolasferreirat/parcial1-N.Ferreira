@@ -41,3 +41,16 @@ INSERT INTO public.comentarios (id_tema, id_usuario, descripcion) VALUES
   (2, 2, 'Impresionante ver cómo la IA está cambiando todo. ¿Hay algún recurso adicional sobre el impacto en el empleo?'),
   (2, 3, 'Gran información sobre IA, aunque sería útil profundizar en las implicaciones éticas.'),
   (4, 4, 'Las técnicas de mindfulness realmente ayudan. ¿Tienes alguna recomendación de aplicaciones o recursos adicionales?');
+
+
+INSERT INTO public.comentarios (id_tema, id_usuario, descripcion) VALUES
+  (1, 3, 'El cambio climático es realmente preocupante. Las políticas deben adaptarse para proteger la agricultura.'),
+  (3, 1, 'Estudiar las civilizaciones antiguas nos da perspectiva sobre nuestro propio tiempo. Fascinante.'),
+  (5, 2, 'Las energías renovables son el futuro. Invertir en ellas es crucial para la sostenibilidad.'),
+  (1, 4, 'Los agricultores necesitan más apoyo para adaptarse a los cambios climáticos. Es una prioridad urgente.'),
+  (2, 1, 'La ética en la inteligencia artificial debe ser una prioridad. Los avances no deben ir en detrimento de los valores humanos.'),
+  (3, 2, 'Siempre he encontrado fascinante cómo las antiguas civilizaciones construyeron sus imperios. Muy interesante.'),
+  (4, 3, 'La meditación me ha ayudado mucho con mi ansiedad. Recomiendo a todos intentarlo al menos una vez.'),
+  (5, 4, 'Me gustaría ver más políticas que apoyen la transición a energías renovables. Es fundamental para nuestro futuro.'),
+  (2, 4, 'La inteligencia artificial tiene un gran potencial, pero también debemos ser cautelosos con su desarrollo.'),
+  (4, 1, 'El mindfulness es una práctica transformadora. Me ha ayudado a mantenerme enfocado y calmado en momentos difíciles.');
